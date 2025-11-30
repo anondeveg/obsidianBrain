@@ -1,0 +1,37 @@
+- [[Http client in cpp]] 
+- [[linux window manager (preferably tiling) in cpp]]
+- [[FOSS programming language in arabic]]
+- optimizing QEMU GENTOO BOOT TIME
+- blog site with c++ backend (minimal af)
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+-  `
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+-  `
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- `

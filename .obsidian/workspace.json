@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "3392888ef584a6f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b57013b3eae8d50d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "439c24b51bf3edf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "- 1 Quick notes/Projects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Projects"
+            }
+          },
+          {
+            "id": "ddb409444c5b310d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-2 Resources Summarized/learncpp.com.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "learncpp.com"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69329329d2afe144",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb11afac5c977191",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c654fa7d09faf49",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "084d13df1c9a2a62",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "83453862e823bd50",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f93e42abb0fceb91",
+    "type": "split",
+    "children": [
+      {
+        "id": "d77fd79f3b92e100",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "629fee5a17b27381",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b9a7a2c5d043ca66",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b08f9c96e7939dba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5d904034c49998c9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "50da6118b8f5fdb8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "ddb409444c5b310d",
+  "lastOpenFiles": [
+    "-2 Resources Summarized/GUID Partition Table.md",
+    "-2 Resources Summarized/AST.md",
+    "-2 Resources Summarized/AI PROMPTS.md",
+    "-2 Resources Summarized/learncpp.com.md",
+    "-2 Resources Summarized/attachments/Pasted image 20251128170413.png",
+    "-2 Resources Summarized/attachments",
+    "Pasted image 20251128170328.png",
+    "- 1 Quick notes/to read or research online.md",
+    "- 1 Quick notes/TODOS.md",
+    "- 1 Quick notes/VIM TODOS.md",
+    "- 1 Quick notes/Watched or to watch videos.md",
+    "- 1 Quick notes/Ventoy.md",
+    "- 1 Quick notes/linux 101.md",
+    "- 1 Quick notes/NVIM TO LEARN.md",
+    "- 1 Quick notes/Projects.md",
+    "- 1 Quick notes/Ascii.md",
+    "- 1 Quick notes/books.md",
+    "- 1 Quick notes/SQL RESOURCES.md",
+    "-2 Resources Summarized/gentoo.md",
+    "-2 Resources Summarized/Philosophy.md",
+    "-2 Resources Summarized/the pragmatic programmer.md",
+    "-2 Resources Summarized/THE WET CODEBASE.md",
+    "Untitled.md",
+    "-2 Resources Summarized/NEOVIM.md",
+    "-2 Resources Summarized/LUA.md",
+    "-5 Templates/project.md",
+    "-5 Templates/Summarize.md",
+    "-2 Resources Summarized/MBR.md",
+    "-2 Resources Summarized/UEFI.md",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "-3 Tags",
+    "-6 Creations",
+    "-5 Templates",
+    "- 1 Quick notes",
+    "-2 Resources Summarized"
+  ]
+}
