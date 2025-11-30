@@ -6,6 +6,7 @@
 
 # the pragmatic programmer
 
+didn't read the book yet
 
 ## **References**:
 
