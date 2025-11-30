@@ -134,3 +134,4 @@ The perpetual act of Puting things in their proper places and times, in their ap
 - https://plato.stanford.edu/entries/kant-moral/
 - https://plato.stanford.edu/entries/justice/
 - Plato’s *Republic*, Book I
+T
