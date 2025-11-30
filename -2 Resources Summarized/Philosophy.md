@@ -120,6 +120,10 @@ i like the _the constant and perpetual_ part will use that for my defention late
 I think is this is not correct, for that if the state of abundance turns into a state of scarcity, for any reason, then we would start seeing differences between those given unequally in the previous state of abundance. Another thing is in this case the judge ain't doing his purpose, and he is breaking the social contract. 
 
 ---
+POLITICAL STATE
+
+
+--- 
 ## MY DEFENTION
 
 The perpetual act of Puting things in their proper places and times, in their appropriate ways and measures — without excess or neglect, without haste or delay.

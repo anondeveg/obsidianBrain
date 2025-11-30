@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-2 Resources Summarized/the pragmatic programmer.md",
+                "file": "-2 Resources Summarized/Philosophy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "the pragmatic programmer"
-            }
-          },
-          {
-            "id": "003058623407988d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Philosophy"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,42 +192,40 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "remotely-save:Remotely Save": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "003058623407988d",
+  "active": "ddb409444c5b310d",
   "lastOpenFiles": [
     "-2 Resources Summarized/the pragmatic programmer.md",
+    "- 1 Quick notes/to read or research online.md",
+    "- 1 Quick notes/NVIM TO LEARN.md",
+    "- 1 Quick notes/linux 101.md",
+    "- 1 Quick notes/Projects.md",
+    "-2 Resources Summarized/AI PROMPTS.md",
+    "-2 Resources Summarized/learncpp.com.md",
+    "-2 Resources Summarized/History of Central Processing Units (CPUs).md",
+    "-2 Resources Summarized/gentoo.md",
     "conflict-files-obsidian-git.md",
     "-2 Resources Summarized/Philosophy.md",
-    "-2 Resources Summarized/learncpp.com.md",
     "-2 Resources Summarized/GUID Partition Table.md",
     "-2 Resources Summarized/AST.md",
-    "-2 Resources Summarized/AI PROMPTS.md",
     "-2 Resources Summarized/attachments/Pasted image 20251128170413.png",
     "-2 Resources Summarized/attachments",
     "Pasted image 20251128170328.png",
-    "- 1 Quick notes/to read or research online.md",
     "- 1 Quick notes/TODOS.md",
     "- 1 Quick notes/VIM TODOS.md",
     "- 1 Quick notes/Watched or to watch videos.md",
     "- 1 Quick notes/Ventoy.md",
-    "- 1 Quick notes/linux 101.md",
-    "- 1 Quick notes/NVIM TO LEARN.md",
-    "- 1 Quick notes/Projects.md",
     "- 1 Quick notes/Ascii.md",
     "- 1 Quick notes/books.md",
     "- 1 Quick notes/SQL RESOURCES.md",
-    "-2 Resources Summarized/gentoo.md",
     "-2 Resources Summarized/THE WET CODEBASE.md",
     "Untitled.md",
     "-2 Resources Summarized/NEOVIM.md",
     "-2 Resources Summarized/LUA.md",
     "-5 Templates/project.md",
     "-5 Templates/Summarize.md",
-    "-2 Resources Summarized/MBR.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
     "copilot",
