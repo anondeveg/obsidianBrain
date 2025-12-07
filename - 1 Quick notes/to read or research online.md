@@ -34,7 +34,7 @@
 - https://blog.netherlabs.nl/articles/2009/01/18/the-ultimate-so_linger-page-or-why-is-my-tcp-not-reliable
 - https://danilafe.com/blog/chapel_x_macros/ 
 - https://matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html 
-- 
+- https://xuser5000.hashnode.dev/why-google-summer-of-code-is-a-golden-opportunity
 - 
 - 
 - 
