@@ -13,3 +13,6 @@
 	- [[# From Unit Tests to Whole Universe Tests (with Will Wilson)]]
 - [ How History Shaped the Programming Terms We Still Use Today](https://www.youtube.com/watch?v=qgwrt7vYY4U)
 - [ Stop using std::vector wrong](https://www.youtube.com/watch?v=Xx-NcqmveDc)
+- https://www.youtube.com/watch?v=-DP1i2ZU9gk (OOP) 
+- https://www.youtube.com/watch?v=gWinNE5rd6Q&pp=ygUbb29wIGluIGMrKyBjb2xsZWdlIGxlY3R1cmVz0gcJCSUKAYcqIYzv (c++ under the hood )
+- https://www.youtube.com/watch?v=HTLu2DFOdTg (Python's Class Development Toolkit)
