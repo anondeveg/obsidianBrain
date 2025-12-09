@@ -317,6 +317,14 @@ It's back!
 
 
 ---
+
+---
+## JOINS
+
+![[Pasted image 20251208191823.png]]
+
+---
+
 ## **References**:
 
 -
