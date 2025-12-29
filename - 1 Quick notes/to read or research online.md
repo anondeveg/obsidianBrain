@@ -35,8 +35,11 @@
 - https://danilafe.com/blog/chapel_x_macros/ 
 - https://matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html 
 - https://xuser5000.hashnode.dev/why-google-summer-of-code-is-a-golden-opportunity
-- 
-- 
+- **WORD EMBEDDINGS**
+[joran beetle dst](https://www.youtube.com/watch?v=w3WYdYyjek4)
+- https://www.scattered-thoughts.net/log/0031
+
+
 - 
 - 
 - 

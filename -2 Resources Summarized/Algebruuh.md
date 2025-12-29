@@ -6,4 +6,5 @@ syntax:
 	 CAPITALS FOR FUNCTIONS and lowercase for variables
 	 `yx` == `y*x`
 	 `2x` == `2*x`
-	 
+
+	2y + 5x = 132

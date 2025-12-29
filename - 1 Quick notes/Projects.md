@@ -3,7 +3,7 @@
 - [[FOSS programming language in arabic]]
 - optimizing QEMU GENTOO BOOT TIME
 - blog site with c++ backend (minimal af)
-- 
+- https://os.phil-opp.com/
 - 
 - 
 - 
