@@ -39,8 +39,9 @@
 [joran beetle dst](https://www.youtube.com/watch?v=w3WYdYyjek4)
 - https://www.scattered-thoughts.net/log/0031
 
+https://blog.nelhage.com/post/computers-can-be-understood/
 
-- 
+- https://projectzero.google/2018/01/reading-privileged-memory-with-side.html?m=1
 - 
 - 
 - 

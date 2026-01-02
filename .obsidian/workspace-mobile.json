@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "- 1 Quick notes/Watched or to watch videos.md",
+                "file": "- 1 Quick notes/to read or research online.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Watched or to watch videos"
+              "title": "to read or research online"
             }
           }
         ]
@@ -170,11 +170,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "34d5406de3dbdc51",
+  "active": "e74a2363f0ec8885",
   "lastOpenFiles": [
+    "- 1 Quick notes/Watched or to watch videos.md",
     "- 1 Quick notes/NVIM TO LEARN.md",
     "- 1 Quick notes/to read or research online.md",
-    "- 1 Quick notes/Watched or to watch videos.md",
     "-2 Resources Summarized/Algebruuh.md",
     "-2 Resources Summarized/the pragmatic programmer.md",
     "-2 Resources Summarized/Philosophy.md",
