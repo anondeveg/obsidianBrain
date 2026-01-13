@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-2 Resources Summarized/learncpp.com.md",
+                "file": "- 1 Quick notes/to read or research online.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "learncpp.com"
+              "title": "to read or research online"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "-2 Resources Summarized/learncpp.com.md",
+            "file": "- 1 Quick notes/to read or research online.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -182,6 +182,7 @@
   },
   "active": "e74a2363f0ec8885",
   "lastOpenFiles": [
+    "-2 Resources Summarized/learncpp.com.md",
     "- 1 Quick notes/to read or research online.md",
     "-2 Resources Summarized/Algebruuh.md",
     "-2 Resources Summarized/ds&algos/dynamic Arrays.md",
