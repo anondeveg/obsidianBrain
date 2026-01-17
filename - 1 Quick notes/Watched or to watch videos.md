@@ -16,3 +16,5 @@
 - https://www.youtube.com/watch?v=-DP1i2ZU9gk (OOP) 
 - https://www.youtube.com/watch?v=gWinNE5rd6Q&pp=ygUbb29wIGluIGMrKyBjb2xsZWdlIGxlY3R1cmVz0gcJCSUKAYcqIYzv (c++ under the hood )
 - https://www.youtube.com/watch?v=HTLu2DFOdTg (Python's Class Development Toolkit)
+we still don't know how to compute strange loop
+https://www.youtube.com/watch?v=FihU5JxmnBg

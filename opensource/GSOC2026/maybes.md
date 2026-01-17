@@ -1,0 +1,11 @@
+https://github.com/neovim/neovim/issues/27962i
+[g:rust_recommended_style default (sometimes) overrides expandtab against explicit .editorconfig setting · Issue #30334 · neovim/neovim](https://github.com/neovim/neovim/issues/30334)
+[jobstart() does not set $NVIM environment variable if /run/user/1000 is not accessible · Issue #27962 · neovim/neovim](https://github.com/neovim/neovim/issues/27962)
+[`:checkhealth`: Search `package.path` for health files. · Issue #26580 · neovim/neovim](https://github.com/neovim/neovim/issues/26580)
+[add :Hardcopy command · Issue #21629 · neovim/neovim](https://github.com/neovim/neovim/issues/21629)
+[Copying using "Shift+Left mouse" adds extra characters at end of line if signcolumn was on and has been toggled off. · Issue #18564 · neovim/neovim](https://github.com/neovim/neovim/issues/18564)
+[cursor shape in st (suckless) · Issue #12283 · neovim/neovim](https://github.com/neovim/neovim/issues/12283)
+[default mapping to convert floatwin to splitwin · Issue #36659 · neovim/neovim](https://github.com/neovim/neovim/issues/36659)
+[vim.keymap.set uses `buffer` instead of `buf` · Issue #35316 · neovim/neovim](https://github.com/neovim/neovim/issues/35316)
+[`:Man bash(1)` loads incorrect/old version of bash man page. · Issue #30873 · neovim/neovim](https://github.com/neovim/neovim/issues/30873)
+[Lua: writefile() "fast", Blob argument should accept Lua string · Issue #30763 · neovim/neovim](https://github.com/neovim/neovim/issues/30763)

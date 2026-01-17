@@ -40,6 +40,8 @@
 - https://www.scattered-thoughts.net/log/0031
 
 
+
+https://dn720006.ca.archive.org/0/items/english-collections-k-z/The%20Book%20of%20Five%20Rings%20-%20Miyamoto%2C%20Musashi.pdf
 - 
 - 
 - 
