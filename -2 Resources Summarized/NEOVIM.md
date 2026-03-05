@@ -11,6 +11,16 @@
 autocmds
 
 
+you can run
+```c
+os_setenv(ENVNAME, VARIABLE, OVERWRITE(BOOL));
+```
+in c and access it in lua using 
+```lua
+vim.env.ENVNAME
+```
+
+
 ## **References**:
 
 - 

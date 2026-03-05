@@ -1,0 +1,1 @@
+In big o notation there is always a constant called C that we usually ignore cause it doesn't matter, but in some cases it does. So take care of it
