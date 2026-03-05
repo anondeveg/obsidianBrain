@@ -4,7 +4,7 @@
 - optimizing QEMU GENTOO BOOT TIME
 - blog site with c++ backend (minimal af)
 - https://os.phil-opp.com/
-- 
+- shazam clone for quran recitations using fourier transform
 - 
 - 
 - 

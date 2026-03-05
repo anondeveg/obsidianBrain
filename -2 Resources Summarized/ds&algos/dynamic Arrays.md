@@ -4,7 +4,7 @@
 
 ## initialize, fill, expand
 
-dynamic arrays gets initialized with a default size (language dependent)
+dynamic arrays gets initialized with a default size (language dependent)dddddddddddddddddddddddddddddddd
 then filled like a normal static array
 
 but when the default size gets completely filled

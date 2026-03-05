@@ -87,5 +87,22 @@ Before finishing, ensure the writing:
 - Gets to the point quickly 
 ```
 ---
+```
+github.com/neovim/neovim
+check every 6 hours
+output is md on discord on the channel with ID 1474938177650430034 called 'neovim'
+issues only, and prs by user anondeveg only which you can check by this url https://github.com/neovim/neovim/issues?q=is%3Apr+is%3Aopen+author%3Aanondeveg
+as much items as you can 10-25 is good.
+check the converstion and check wether its an "easy" fix or no.
+
+i want the output as follows
+
+URL OF THE ISSUE AND THE NAME IN MD syntax.
+QUICK SUMMARY OF THE ISSUE.
+WHY DO YOU THINK ITS AN EASY FIX.
+
+OR IF ITS A PR:
+CONCLUDE WHAT HAPPENED IN THE PR.
+```
 
 ---
