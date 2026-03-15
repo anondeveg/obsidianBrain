@@ -1,3 +1,10 @@
+---
+tags:
+  - opensource
+  - GSOC2026
+  - round1
+---
+
 Hello everyone! 
 
 [I've been looking into kitty's text-sizing-protocol](https://github.com/kovidgoyal/kitty/blob/master/docs/text-sizing-protocol.rst)

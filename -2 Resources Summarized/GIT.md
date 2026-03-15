@@ -1,3 +1,8 @@
+---
+tags:
+  - Resources_Summarized
+---
+
 version control
 directed acyclic graph
 staging area

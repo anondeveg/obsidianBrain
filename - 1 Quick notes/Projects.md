@@ -1,3 +1,8 @@
+---
+tags:
+  - 1_Quick_notes
+---
+
 - [[Http client in cpp]] 
 - [[linux window manager (preferably tiling) in cpp]]
 - [[FOSS programming language in arabic]]

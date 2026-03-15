@@ -1,3 +1,8 @@
+---
+tags:
+  - Resources_Summarized
+---
+
 Wizard-of-Oz experiment: in the field of human–computer interaction, a Wizard of Oz experiment is a research experiment in which subjects interact with a computer system that subjects believe to be autonomous, but that is actually operated or partially operated by an unseen human being.(https://en.wikipedia.org/wiki/Wizard_of_Oz_experiment)[wikipedia]
 
 

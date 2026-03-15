@@ -1,3 +1,8 @@
+---
+tags:
+  - Resources_Summarized
+---
+
 2025-12-29 05:58
 
 **Source material** : https://cs.lmu.edu/~ray/notes/nasmtutorial/

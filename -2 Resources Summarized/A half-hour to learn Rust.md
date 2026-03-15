@@ -1,3 +1,8 @@
+---
+tags:
+  - Resources_Summarized
+---
+
 2025-12-21 05:19 
 
 # A half-hour to learn Rust

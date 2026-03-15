@@ -1,3 +1,8 @@
+---
+tags:
+  - Resources_Summarized
+---
+
 
 
 [Duplicate emails (leet)](https://leetcode.com/problems/duplicate-emails/submissions/1850430207/)

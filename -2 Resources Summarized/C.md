@@ -1,3 +1,8 @@
+---
+tags:
+  - Resources_Summarized
+---
+
 2025-12-29 06:50
 
 **Source material** : https://ams148-spring18-01.courses.soe.ucsc.edu/system/files/attachments/section1_0.pdf 

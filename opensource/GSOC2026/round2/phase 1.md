@@ -1,3 +1,10 @@
+---
+tags:
+  - opensource
+  - GSOC2026
+  - round2
+---
+
 [DeepChem | GSoC Organizations](https://www.gsocorganizations.dev/organization/deepchem/)
 [Django Software Foundation | GSoC Organizations](https://www.gsocorganizations.dev/organization/django-software-foundation/)
 [Fortran-lang | GSoC Organizations](https://www.gsocorganizations.dev/organization/fortran-lang/)

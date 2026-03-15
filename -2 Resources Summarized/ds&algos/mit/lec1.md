@@ -1,3 +1,10 @@
+---
+tags:
+  - Resources_Summarized
+  - dsandalgos
+  - mit
+---
+
 
 
 goal

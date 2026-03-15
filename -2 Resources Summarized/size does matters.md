@@ -1,3 +1,8 @@
+---
+tags:
+  - Resources_Summarized
+---
+
 # The Size of Your Variables Matter
 
 **Source**: [https://www.youtube.com/watch?v=hwyRnHA54lI](https://www.youtube.com/watch?v=hwyRnHA54lI)

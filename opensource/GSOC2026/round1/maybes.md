@@ -1,3 +1,10 @@
+---
+tags:
+  - opensource
+  - GSOC2026
+  - round1
+---
+
 https://github.com/neovim/neovim/issues/27962i
 [g:rust_recommended_style default (sometimes) overrides expandtab against explicit .editorconfig setting · Issue #30334 · neovim/neovim](https://github.com/neovim/neovim/issues/30334)
 [jobstart() does not set $NVIM environment variable if /run/user/1000 is not accessible · Issue #27962 · neovim/neovim](https://github.com/neovim/neovim/issues/27962)

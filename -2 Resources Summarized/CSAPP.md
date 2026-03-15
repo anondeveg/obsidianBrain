@@ -1,3 +1,8 @@
+---
+tags:
+  - Resources_Summarized
+---
+
 2025-12-28 13:16
 
 **Source material** :  https://www.cs.sfu.ca/~ashriram/Courses/CS295/assets/books/CSAPP_2016.pdf

@@ -1,13 +1,9 @@
+---
+tags:
+  - 1_Quick_notes
+---
 
-
-
-
-
-
-
-
-
-# Excersice
-[SQL murder mystery](https://mystery.knightlab.com/)
-[real sql Interview questions](https://datalemur.com/sql-interview-questions?difficulty=Easy)
-
+| Resource | Link | Category |
+| :--- | :--- | :--- |
+| SQL murder mystery | [mystery.knightlab.com](https://mystery.knightlab.com/) | Exercise |
+| real sql Interview questions| [datalemur.com](https://datalemur.com/sql-interview-questions?difficulty=Easy) | Exercise |

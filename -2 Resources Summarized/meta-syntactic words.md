@@ -1,3 +1,8 @@
+---
+tags:
+  - Resources_Summarized
+---
+
 2025-11-12 08:15
 
 **Source material** : https://datatracker.ietf.org/doc/html/rfc3092

@@ -1,3 +1,8 @@
+---
+tags:
+  - Resources_Summarized
+---
+
 2025-11-08 16:16
 
 **Source material** : https://wiki.gentoo.org/wiki/Handbook:Main_Page

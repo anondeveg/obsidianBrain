@@ -1,3 +1,8 @@
+---
+tags:
+  - Resources_Summarized
+---
+
 
 
 post order traversal of a tree

@@ -1,3 +1,8 @@
+---
+tags:
+  - Resources_Summarized
+---
+
 2026-01-13 17:00
 
 **Source material** : 

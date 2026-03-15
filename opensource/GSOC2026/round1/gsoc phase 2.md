@@ -1,3 +1,10 @@
+---
+tags:
+  - opensource
+  - GSOC2026
+  - round1
+---
+
 [LibreOffice | GSoC Organizations](https://www.gsocorganizations.dev/organization/libreoffice/)
 [Kiwix | GSoC Organizations](https://www.gsocorganizations.dev/organization/kiwix/)
 [Internet Archive | GSoC Organizations](https://www.gsocorganizations.dev/organization/internet-archive/) y

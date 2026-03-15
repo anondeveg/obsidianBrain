@@ -1,3 +1,8 @@
+---
+tags:
+  - Resources_Summarized
+---
+
 **Date:** 2026-02-08 12:05  
 **Source Material:** Personal Notes / Grokking Algorithms  
 **Tags:** [[recursion]], [[tail-recursion]]

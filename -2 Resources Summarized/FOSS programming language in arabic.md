@@ -1,0 +1,5 @@
+---
+tags:
+  - Resources_Summarized
+---
+

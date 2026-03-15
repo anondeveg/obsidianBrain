@@ -1,3 +1,8 @@
+---
+tags:
+  - Resources_Summarized
+---
+
 March 15, 2026 4:09 PM
 Source material : https://opensource.com/article/18/6/anatomy-perfect-pull-request
 Tags : [[Software Engineering]], [[Version Control]], [[Best Practices]]

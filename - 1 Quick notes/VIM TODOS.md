@@ -1,3 +1,8 @@
+---
+tags:
+  - 1_Quick_notes
+---
+
 
 - autocmds
 	-callbacks? a function that is ran when x even happens

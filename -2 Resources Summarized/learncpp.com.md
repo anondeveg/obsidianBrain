@@ -1,3 +1,8 @@
+---
+tags:
+  - Resources_Summarized
+---
+
 ]2027-10-18 12:32
 # learncpp.com
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - Resources_Summarized
+---
+
 
 
 < REWIRES INPUT

@@ -1,3 +1,8 @@
+---
+tags:
+  - 1_Quick_notes
+---
+
 - **1991:** Linus Torvalds starts Linux as a free Unix-like OS for PCs.
 -
 - 15K developers Completely Opensource!

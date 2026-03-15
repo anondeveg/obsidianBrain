@@ -1,3 +1,8 @@
+---
+tags:
+  - Resources_Summarized
+---
+
 2026-02-22 03:13
 
 **Source material** : Grokking Algorithms

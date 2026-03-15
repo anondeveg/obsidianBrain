@@ -1,3 +1,10 @@
+---
+tags:
+  - opensource
+  - GSOC2026
+  - round1
+---
+
 
 
 [Python Software Foundation | GSoC Organizations](https://www.gsocorganizations.dev/organization/python-software-foundation/) x 

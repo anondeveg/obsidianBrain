@@ -1,3 +1,8 @@
+---
+tags:
+  - Resources_Summarized
+---
+
 
 2025-11-10 07:07
 

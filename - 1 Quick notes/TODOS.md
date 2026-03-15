@@ -1,3 +1,8 @@
+---
+tags:
+  - 1_Quick_notes
+---
 
-
--  move to annother PasswordManager
+| Status | Task                             |
+| :----: | :------------------------------- |
+| ☐      | move to annother PasswordManager |
