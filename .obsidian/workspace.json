@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6ec47f6d5684da12",
+        "id": "97fb53ebf1c29a12",
         "type": "tabs",
         "children": [
           {
-            "id": "47e78220123c4553",
+            "id": "1da20366b88008db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-2 Resources Summarized/grokking algorithms.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "grokking algorithms"
+              "title": "New tab"
             }
           }
         ]
@@ -182,8 +178,15 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "47e78220123c4553",
+  "active": "1da20366b88008db",
   "lastOpenFiles": [
+    "-2 Resources Summarized/sAnatomy of a Perfect Pull Request.md",
+    "-5 Templates/Summarize.md",
+    "-5 Templates/project.md",
+    "- 1 Quick notes/to read or research online.md",
+    "-2 Resources Summarized/AI PROMPTS.md",
+    "-2 Resources Summarized/grokking algorithms.md",
+    "-2 Resources Summarized/GIT.md",
     "-2 Resources Summarized/GUID Partition Table.md",
     "-2 Resources Summarized/History of Central Processing Units (CPUs).md",
     "-2 Resources Summarized/how the browser renders stuff.md",
@@ -198,18 +201,11 @@
     "-2 Resources Summarized/Tail Recursion — Fibonacci Example.md",
     "-2 Resources Summarized/software design.md",
     "- 1 Quick notes/Projects.md",
-    "- 1 Quick notes/to read or research online.md",
     "FOSS programming language in arabic.md",
     "- 1 Quick notes/NVIM TO LEARN.md",
     "- 1 Quick notes/linux 101.md",
     "- 1 Quick notes/books.md",
     "-2 Resources Summarized/ds&algos/dynamic Arrays.md",
-    "-2 Resources Summarized/A half-hour to learn Rust.md",
-    "-2 Resources Summarized/AI PROMPTS.md",
-    "-2 Resources Summarized/GIT.md",
-    "-2 Resources Summarized/OOP.md",
-    "-2 Resources Summarized/meta-syntactic words.md",
-    "-2 Resources Summarized/MBR.md",
     "-2 Resources Summarized/Linux",
     "Untitled",
     "opensource/GSOC2026/round2",
