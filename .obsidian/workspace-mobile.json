@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-2 Resources Summarized/software design.md",
+                "file": "-2 Resources Summarized/grokking algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "software design"
+              "title": "grokking algorithms"
             }
           }
         ]
@@ -182,6 +182,8 @@
   },
   "active": "e74a2363f0ec8885",
   "lastOpenFiles": [
+    "-2 Resources Summarized/software design.md",
+    "-2 Resources Summarized/vim game.md",
     "- 1 Quick notes/to read or research online.md",
     "-2 Resources Summarized/learncpp.com.md",
     "-2 Resources Summarized/Algebruuh.md",
