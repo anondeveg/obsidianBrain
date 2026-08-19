@@ -10,7 +10,7 @@ tags:
 
 ## initialize, fill, expand
 
-dynamic arrays gets initialized with a default size (language dependent)dddddddddddddddddddddddddddddddd
+dynamic arrays gets initialized with a default size (language dependent)
 then filled like a normal static array
 
 but when the default size gets completely filled
@@ -63,4 +63,4 @@ this trick makes the [[amortized time complexity]]  of the operation O(n)
 | r / w i-th element  | O(1)                 |
 | Insert / Remove End | O(1)                 |
 | Insert Middle       | O(n)                 |
-| []()Remove Middle   | O(n)                 |
+| Remove Middle       | O(n)                 |
