@@ -1,0 +1,1 @@
+every session must have background information like the history

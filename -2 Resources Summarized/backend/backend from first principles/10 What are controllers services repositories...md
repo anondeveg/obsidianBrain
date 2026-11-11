@@ -17,12 +17,12 @@ handler responsibolities:
 	 after getting data from service send the appropriate response with appropriate response code.
 
 service:
-    (NO HTTP HTTP HANDLING IS IN THE **HANDLER** )
-	 from first glance a service should be just a normal functiojn taht nothing to do with http
-	 buisness logic
+    (NO HTTP; HTTP HANDLING IS IN THE **HANDLER** )
+	 from first glance a service should be just a normal function that has nothing to do with http
+	 buisness logic--
 	 
 repository:
-	 SOC: take data performs database opration return data
+	 SOC: performs database opration return data
 	 every repo does one thing
 
 

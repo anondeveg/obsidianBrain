@@ -1,0 +1,1 @@
+AIX has an unusual ABI rule ("power alignment") where a double inside a struct is given 4-byte alignment and then a separate "preferred alignment" value is upgraded from 4 up to 8. The code that does that upgrade has a safety check baked in that says, in effect, "if I'm here, the alignment must currently be 4."

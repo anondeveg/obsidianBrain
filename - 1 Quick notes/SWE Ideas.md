@@ -1,0 +1,1 @@
+becoming a good enginner is switching your mind from what to how. (breaking the abstraction.)

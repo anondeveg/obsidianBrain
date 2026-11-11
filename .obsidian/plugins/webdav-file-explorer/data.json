@@ -1,0 +1,11 @@
+{
+  "rootFolderPath": "0_Webdav",
+  "webdavConfig": {
+    "address": "http://13.140.28.16:3923",
+    "username": "",
+    "password": "",
+    "authType": "basic",
+    "manualRecursive": false,
+    "remoteBaseDir": "obsidian"
+  }
+}

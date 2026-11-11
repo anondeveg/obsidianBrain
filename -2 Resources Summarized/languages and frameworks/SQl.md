@@ -9,7 +9,7 @@ tags:
 **Source material** : https://www.youtube.com/watch?v=5OdVJbNCSso
 **Tags** : [[SQL]] [[Databases]]
 
-# MYSQL
+ََ# MYSQL
 
 ---
 ### DATABASES

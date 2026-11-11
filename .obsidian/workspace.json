@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8967474a8099fcf0",
+        "id": "5fa3075856392da3",
         "type": "tabs",
         "children": [
           {
-            "id": "87f89514e511b9bb",
+            "id": "9aeeca564ea26b2b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "-2 Resources Summarized/SWE/System Design/Ch04 - Design A Rate Limiter.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ch04 - Design A Rate Limiter"
             }
           }
         ]
@@ -51,9 +55,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
-                "explainSearch": false,
+                "query": "bootcamps",
+                "matchingCase": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -67,9 +71,22 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "89f7ff21f3f37730",
+            "type": "leaf",
+            "state": {
+              "type": "webdav-file-explorer",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "webdav-file-explorer"
             }
           }
         ]
@@ -166,8 +183,18 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          },
+          {
+            "id": "73db624077c1c088",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           }
         ],
@@ -180,64 +207,65 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "87f89514e511b9bb",
+  "active": "9aeeca564ea26b2b",
   "lastOpenFiles": [
-    "-2 Resources Summarized/SWE/DesignPatterns/Dependency injection.md",
-    "HighLights/www.geeksforgeeks.org/system-design/dependency-injectiondi-design-pattern.md",
-    "-2 Resources Summarized/backend/backend from first principles/18 Logging monitoring and observability.md",
-    "-2 Resources Summarized/SWE/DesignPatterns",
-    "-2 Resources Summarized/backend/backend from first principles/Production grade configuration management.md",
-    "-2 Resources Summarized/backend/backend from first principles/6 what is routing?.md",
-    "-2 Resources Summarized/backend/backend from first principles/10 What are controllers services repositories...md",
-    "-2 Resources Summarized/backend/Go enterprise project tech.md",
-    "-2 Resources Summarized/backend/backend from first principles/attachments/Pasted image 20260823072649.png",
-    "-2 Resources Summarized/backend/backend from first principles/attachments",
-    "-2 Resources Summarized/backend/backend from first principles",
-    "- 1 Quick notes/qoutes.md",
+    "-2 Resources Summarized/SWE/System Design/Ch03 - A Framework For System Design Interviews.md",
+    "-2 Resources Summarized/SWE/System Design/Ch02 - Back-of-the-envelope Estimation.md",
+    "-2 Resources Summarized/SWE/System Design/ch1 Scale to millions of users.md",
+    "-2 Resources Summarized/SWE/System Design/Ch02-03 - Exam.md",
+    "-2 Resources Summarized/SWE/System Design/Ch01 - Exam.md",
+    "Ch02 - Back-of-the-envelope Estimation.md",
+    "-2 Resources Summarized/SWE/Anatomy of a Perfect Pull Request.md",
+    "-2 Resources Summarized/backend/PRODUCTION FLOW/Design doc - RFC.md",
+    "-2 Resources Summarized/SWE/System Design",
+    "-2 Resources Summarized/SWE/cleancode/Chapter 1 Clean Code.md",
+    "-2 Resources Summarized/SWE/cleancode/about.md",
+    "-2 Resources Summarized/SWE/architecture/pubsub.md",
+    "-2 Resources Summarized/SWE/architecture/At most once, at least once, exactly once.md",
     "- 1 Quick notes/software design.md",
-    "- 1 Quick notes/NVIM TO LEARN.md",
-    "- 1 Quick notes/books.md",
-    "- 1 Quick notes/CP.md",
-    "-2 Resources Summarized/backend/cors.md",
+    "- 1 Quick notes/LEARNING.md",
+    "- 1 Quick notes/AI RULES.md",
+    "-2 Resources Summarized/SWE/cleancode/chapter 2 Meaningful Names.md",
+    "-2 Resources Summarized/SWE/cleancode/Untitled.md",
+    "-2 Resources Summarized/backend/PRODUCTION FLOW/database schema design.md",
+    "-2 Resources Summarized/backend/PRODUCTION FLOW/API Design.md",
+    "ds&algos/dynamic Arrays.md",
+    "ds&algos/BIG-O.md",
+    "-2 Resources Summarized/RESEARCH PAPERS/TO READ.md",
+    "blogs/the path to production systems.md",
+    "-2 Resources Summarized/SWE/cleancode",
+    "HighLights/www.industrialempathy.com/posts/design-docs-at-google.md",
+    "blogs/ما كان في الإمكان avg مما كان!.md",
+    "-2 Resources Summarized/backend/backend from first principles/AUTH.md",
+    "-2 Resources Summarized/backend/PRODUCTION FLOW/attachments/Pasted image 20261016173112.png",
+    "-2 Resources Summarized/backend/PRODUCTION FLOW/attachments/Pasted image 20261016172922.png",
+    "-2 Resources Summarized/backend/PRODUCTION FLOW/attachments/Pasted image 20261016172645.png",
+    "-2 Resources Summarized/backend/PRODUCTION FLOW/attachments/Pasted image 20261016172545.png",
+    "-2 Resources Summarized/backend/PRODUCTION FLOW/attachments/Pasted image 20261016172257.png",
+    "-2 Resources Summarized/backend/PRODUCTION FLOW/attachments",
+    "HighLights/support.microsoft.com/en-us/access",
+    "HighLights/support.microsoft.com/en-us",
+    "HighLights/support.microsoft.com",
+    "HighLights/www.seangoedecke.com",
+    "HighLights/chatgpt.com/c",
+    "HighLights/chatgpt.com",
+    "HighLights/www.industrialempathy.com/posts",
+    "-2 Resources Summarized/projects/frahidi_language/attachments/Pasted image 20260923060721.png",
     "attachments/Pasted image 20260820221751.png",
-    "attachments",
-    "-2 Resources Summarized/Untitled.md",
-    "-2 Resources Summarized/backend",
-    "-2 Resources Summarized/languages and frameworks/A half-hour to learn Rust.md",
-    "HighLights/go.dev/tour/moretypes/22.md",
-    "HighLights/go.dev/tour/moretypes/6.md",
-    "HighLights/go.dev/tour/moretypes/5.md",
-    "HighLights/go.dev/tour/moretypes/7.md",
-    "HighLights/go.dev/tour/moretypes/16.md",
-    "HighLights/go.dev/tour/moretypes/12.md",
-    "HighLights/go.dev/tour/moretypes/11.md",
-    "HighLights/go.dev/tour/moretypes/10.md",
-    "HighLights/go.dev/tour/moretypes/9.md",
-    "HighLights/go.dev/tour/flowcontrol/13.md",
-    "HighLights/go.dev/tour/moretypes/4.md",
-    "HighLights/go.dev/tour/moretypes",
-    "HighLights/go.dev/tour/flowcontrol",
-    "HighLights/go.dev/tour/basics",
-    "HighLights/go.dev/tour",
-    "-2 Resources Summarized/SWE/architecture/attachments/Pasted image 20260819181840.png",
-    "-2 Resources Summarized/SWE/architecture/attachments",
-    "Pasted image 20251128170328.png",
-    "-2 Resources Summarized/attachments/Pasted image 20251208191823.png",
-    "-2 Resources Summarized/attachments/Pasted image 20251128170413.png",
-    "-2 Resources Summarized/AI/hugging_face llmcourse/attachments/Pasted image 20260814164311.png",
-    "-2 Resources Summarized/AI/hugging_face llmcourse/attachments/Pasted image 20260813214557.png",
-    "-2 Resources Summarized/GSOC2026/attachments/Pasted image 20260117152644.png",
-    "-2 Resources Summarized/GSOC2026/attachments/Pasted image 20260117152101.png"
+    "-2 Resources Summarized/GSOC 2027/LLVM/attachments/Pasted image 20260907070716.png",
+    "-2 Resources Summarized/GSOC 2027/LLVM/attachments/Pasted image 20260907070537.png",
+    "-2 Resources Summarized/GSOC 2027/LLVM/attachments/Pasted image 20260907070451.png",
+    "Untitled.canvas"
   ]
 }

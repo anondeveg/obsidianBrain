@@ -1,0 +1,1 @@
+when designing an application keep in mind the idea of spatial locality, and how your data will be laid in memory.
